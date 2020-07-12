@@ -6,4 +6,4 @@ In order to run streamlit on your browser.
 Hit-> streamlit run [filename] used here is(app.py)
 the localhost link will appear.
 
-![alt text](http://url/to/https://i.ibb.co/NmYTyyk/Screenshot-37.png.png)
+![alt text](http://url/to/https://i.ibb.co/NmYTyyk/Screenshot-37.png)
